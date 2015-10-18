@@ -1,0 +1,134 @@
+SmartHome version 0.1a, 2015
+Gokalp Gurbuzer, gokalp.gurbuzer@yandex.com
+	
+2015-09-28 08:25:59,907 - __main__- INFO : using config file smarthome.conf
+2015-09-28 08:25:59,912 - __main__- INFO : configuration loaded. starting up...
+2015-09-28 08:25:59,916 - __main__- INFO : Reading DB ./smarthome.db
+2015-09-28 08:25:59,918 - __main__- INFO : Initializing Telegram Bot
+2015-09-28 08:25:59,920 - __main__- INFO : Initializing Audio Player
+2015-09-28 08:25:59,923 - sound- DEBUG : resource dingdong loaded
+2015-09-28 08:25:59,923 - sound- DEBUG : resource dingdong loaded
+2015-09-28 08:25:59,926 - sound- DEBUG : resource welcome loaded
+2015-09-28 08:25:59,926 - sound- DEBUG : resource welcome loaded
+2015-09-28 08:25:59,928 - __main__- INFO : Initializing SmartHomeBot
+2015-09-28 08:25:59,935 - __main__- INFO : Initializing CommandEvaluator
+2015-09-28 08:25:59,937 - __main__- INFO : Initializing BotListener(TM)
+2015-09-28 08:25:59,942 - gpio- DEBUG : Starting SmartHomeBot
+2015-09-28 08:25:59,942 - gpio- DEBUG : Starting SmartHomeBot
+2015-09-28 08:25:59,948 - gpio- DEBUG : Waiting for edge
+2015-09-28 08:25:59,948 - gpio- DEBUG : Waiting for edge
+2015-09-28 08:25:59,952 - botserver.messageresponder- INFO : There goes the bot listener!
+2015-09-28 08:25:59,952 - botserver.messageresponder- INFO : There goes the bot listener!
+2015-09-28 08:25:59,956 - __main__- INFO : Initialization complete, let's rock!
+gpio/gpio.py:21: RuntimeWarning: A physical pull up resistor is fitted on this channel!
+  GPIO.setup(5, GPIO.IN)
+2015-09-28 09:58:28,001 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 09:58:28,001 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 09:58:28,004 - botserver.botcommands- DEBUG : message reads /help
+2015-09-28 09:58:28,004 - botserver.botcommands- DEBUG : message reads /help
+2015-09-28 09:58:40,048 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 09:58:40,048 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 09:58:40,051 - botserver.botcommands- DEBUG : message reads /ping
+2015-09-28 09:58:40,051 - botserver.botcommands- DEBUG : message reads /ping
+2015-09-28 09:59:20,493 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 09:59:20,493 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 09:59:20,497 - botserver.botcommands- DEBUG : message reads /welcome
+2015-09-28 09:59:20,497 - botserver.botcommands- DEBUG : message reads /welcome
+Audio codec opus channels 1 samplerate 48000 bitspersample 16
+Subtitle count: 0, state: off, index: 1, delay: 0
+have a nice day ;)
+2015-09-28 09:59:40,340 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 09:59:40,340 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 09:59:40,344 - botserver.botcommands- DEBUG : message reads /who
+2015-09-28 09:59:40,344 - botserver.botcommands- DEBUG : message reads /who
+2015-09-28 12:11:51,853 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 12:11:51,853 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 12:11:51,856 - botserver.botcommands- DEBUG : message reads /help
+2015-09-28 12:11:51,856 - botserver.botcommands- DEBUG : message reads /help
+2015-09-28 12:12:31,669 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 12:12:31,669 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 12:12:31,672 - botserver.botcommands- DEBUG : message reads /ping
+2015-09-28 12:12:31,672 - botserver.botcommands- DEBUG : message reads /ping
+2015-09-28 12:31:58,662 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 12:31:58,662 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 12:31:58,665 - botserver.botcommands- DEBUG : message reads /showauthenticatedusers
+2015-09-28 12:31:58,665 - botserver.botcommands- DEBUG : message reads /showauthenticatedusers
+2015-09-28 12:32:04,909 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 12:32:04,909 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 12:32:04,912 - botserver.botcommands- DEBUG : message reads ggh
+2015-09-28 12:32:04,912 - botserver.botcommands- DEBUG : message reads ggh
+2015-09-28 12:32:04,916 - botserver.botcommands- DEBUG : what am I supposed to do with that?
+2015-09-28 12:32:04,916 - botserver.botcommands- DEBUG : what am I supposed to do with that?
+2015-09-28 12:55:11,089 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 12:55:11,089 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 12:55:11,092 - botserver.botcommands- DEBUG : message reads /whosyourdaddy
+2015-09-28 12:55:11,092 - botserver.botcommands- DEBUG : message reads /whosyourdaddy
+2015-09-28 14:28:27,051 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 14:28:27,051 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 14:28:27,054 - botserver.botcommands- DEBUG : message reads /ping
+2015-09-28 14:28:27,054 - botserver.botcommands- DEBUG : message reads /ping
+2015-09-28 17:46:15,286 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 17:46:15,286 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-09-28 17:46:15,289 - botserver.botcommands- DEBUG : message reads /ping
+2015-09-28 17:46:15,289 - botserver.botcommands- DEBUG : message reads /ping
+2015-09-28 19:37:33,671 - telegrambot- WARNING : something went wrong while checking for new messages, server returns 502
+2015-09-28 19:37:33,673 - telegrambot- WARNING : <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.9.1</center>
+</body>
+</html>
+
+SmartHome version 0.1a, 2015
+Gokalp Gurbuzer, gokalp.gurbuzer@yandex.com
+	
+2015-10-03 05:42:09,576 - __main__- INFO : using config file smarthome.conf
+2015-10-03 05:42:09,583 - __main__- INFO : configuration loaded. starting up...
+2015-10-03 05:42:09,590 - __main__- INFO : Reading DB ./smarthome.db
+2015-10-03 05:42:09,593 - __main__- INFO : Initializing Telegram Bot
+2015-10-03 05:42:09,597 - __main__- INFO : Initializing Audio Player
+2015-10-03 05:42:09,600 - sound- DEBUG : resource dingdong loaded
+2015-10-03 05:42:09,600 - sound- DEBUG : resource dingdong loaded
+2015-10-03 05:42:09,605 - sound- DEBUG : resource welcome loaded
+2015-10-03 05:42:09,605 - sound- DEBUG : resource welcome loaded
+2015-10-03 05:42:09,610 - __main__- INFO : Initializing SmartHomeBot
+2015-10-03 05:42:09,617 - __main__- INFO : Initializing CommandEvaluator
+2015-10-03 05:42:09,622 - __main__- INFO : Initializing BotListener(TM)
+2015-10-03 05:42:09,620 - gpio- DEBUG : Starting SmartHomeBot
+2015-10-03 05:42:09,620 - gpio- DEBUG : Starting SmartHomeBot
+2015-10-03 05:42:09,635 - gpio- DEBUG : Waiting for edge
+2015-10-03 05:42:09,637 - botserver.messageresponder- INFO : There goes the bot listener!
+2015-10-03 05:42:09,638 - __main__- INFO : Initialization complete, let's rock!
+2015-10-03 05:42:09,637 - botserver.messageresponder- INFO : There goes the bot listener!
+2015-10-03 05:42:09,635 - gpio- DEBUG : Waiting for edge
+gpio/gpio.py:21: RuntimeWarning: A physical pull up resistor is fitted on this channel!
+  GPIO.setup(5, GPIO.IN)
+2015-10-03 05:42:16,684 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-03 05:42:16,684 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-03 05:42:16,689 - botserver.botcommands- DEBUG : message reads /ping
+2015-10-03 05:42:16,689 - botserver.botcommands- DEBUG : message reads /ping
+2015-10-03 05:42:17,925 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-03 05:42:17,925 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-03 05:42:17,930 - botserver.botcommands- DEBUG : message reads /ping
+2015-10-03 05:42:17,930 - botserver.botcommands- DEBUG : message reads /ping
+2015-10-03 05:42:19,156 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-03 05:42:19,156 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-03 05:42:19,162 - botserver.botcommands- DEBUG : message reads /showauthenticatedusers
+2015-10-03 05:42:19,162 - botserver.botcommands- DEBUG : message reads /showauthenticatedusers
+2015-10-05 18:10:23,484 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-05 18:10:23,484 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-05 18:10:23,487 - botserver.botcommands- DEBUG : message reads /ping
+2015-10-05 18:10:23,487 - botserver.botcommands- DEBUG : message reads /ping
+2015-10-05 18:12:11,329 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-05 18:12:11,329 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-05 18:12:11,333 - botserver.botcommands- DEBUG : message reads /whoisyourdaddy
+2015-10-05 18:12:11,333 - botserver.botcommands- DEBUG : message reads /whoisyourdaddy
+2015-10-05 18:13:02,919 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-05 18:13:02,919 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-05 18:13:02,922 - botserver.botcommands- DEBUG : message reads /help
+2015-10-05 18:13:02,922 - botserver.botcommands- DEBUG : message reads /help
+2015-10-05 18:13:20,352 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-05 18:13:20,352 - botserver.botcommands- DEBUG : message from GökalpGürbüzer (gokalp)
+2015-10-05 18:13:20,355 - botserver.botcommands- DEBUG : message reads /showresources
+2015-10-05 18:13:20,355 - botserver.botcommands- DEBUG : message reads /showresources
